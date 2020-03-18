@@ -1,0 +1,2 @@
+rootProject.name='Hms Integration Test'
+include ':app'
